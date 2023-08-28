@@ -1,0 +1,492 @@
+.Container {
+  width: 1740px;
+  height: auto;
+  margin: 0 auto;
+  background-color: white; }
+  .Container section {
+    margin-left: 165px; }
+    .Container section .row {
+      width: 1440px;
+      height: 83px;
+      background-color: #00154e; }
+      .Container section .row .col-10 {
+        width: 1280px;
+        height: 59px;
+        margin-top: 14px;
+        margin-left: 80px; }
+        .Container section .row .col-10 svg {
+          width: 152px;
+          height: 32px;
+          margin-top: 20px; }
+        .Container section .row .col-10 ul {
+          width: 570px;
+          height: 59px;
+          margin-left: 442px;
+          margin-top: -30px; }
+          .Container section .row .col-10 ul li {
+            display: inline-block;
+            color: white;
+            margin-left: 30px; }
+  .Container .section1 {
+    margin-left: 150px; }
+    .Container .section1 .row {
+      margin-top: -100px; }
+      .Container .section1 .row .col-3 h2 {
+        margin-top: -100px; }
+      .Container .section1 .row .col-3 svg {
+        width: 203px;
+        height: 69px;
+        top: 387px; }
+      .Container .section1 .row .col-3 .box {
+        width: 620px;
+        height: 64px;
+        top: 556px;
+        padding: 0 257px 0 0; }
+        .Container .section1 .row .col-3 .box svg {
+          margin-top: 70px;
+          margin-left: -70px; }
+      .Container .section1 .row .col-6 svg {
+        width: 648px;
+        height: 770px;
+        margin-left: 712px; }
+  .Container .section {
+    margin-left: 150px; }
+    .Container .section .row {
+      width: 1280px;
+      height: 398px;
+      top: 997px;
+      left: 80px;
+      background-color: white; }
+      .Container .section .row .bos {
+        background-color: transparent;
+        margin-top: -380px;
+        margin-left: 430px; }
+  .Container .section2 {
+    margin-left: 150px;
+    width: 1440px;
+    height: auto;
+    top: 260px;
+    padding: 0 20px 5px 0; }
+    .Container .section2 .row {
+      background-color: white; }
+      .Container .section2 .row .col h2 {
+        width: 698px;
+        height: 132px;
+        margin-top: 50px;
+        font-family: Epilogue sans-serif;
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 66px;
+        letter-spacing: 0;
+        text-align: left; }
+  .Container .section3 {
+    margin-left: 150px;
+    width: 1440px;
+    height: 870px;
+    background-color: #00154e;
+    margin-top: 800px; }
+    .Container .section3 .container1 {
+      background-color: #00154e;
+      height: 400px; }
+      .Container .section3 .container1 .row {
+        margin-left: 0; }
+  .Container .section4 {
+    margin-left: 150px;
+    width: 1440px;
+    height: 960px;
+    background-color: #d4d4d4; }
+    .Container .section4 .container {
+      width: 1280px;
+      height: 960px;
+      margin-left: 150px;
+      background-color: #d4d4d4; }
+      .Container .section4 .container .row {
+        background-color: transparent; }
+        .Container .section4 .container .row .col {
+          width: 327px;
+          height: 24px;
+          margin-top: 140px;
+          margin-left: 400px; }
+      .Container .section4 .container .row .col h2 {
+        width: 600px;
+        margin-left: -150px;
+        margin-top: -20px;
+        font-family: Epilogue sans-serif;
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 66px;
+        letter-spacing: 0;
+        text-align: center; }
+      .Container .section4 .container .row .col1 {
+        width: 570px;
+        height: 360px;
+        margin-left: -30px;
+        margin-top: 200px;
+        border-radius: 20px 20px 0 20px;
+        background-color: white; }
+        .Container .section4 .container .row .col1 h5 {
+          margin-top: 20px;
+          margin-left: 40px;
+          font-family: Epilogue sans-serif;
+          font-size: 24px;
+          font-weight: 400;
+          line-height: 30px;
+          letter-spacing: 0;
+          text-align: left; }
+        .Container .section4 .container .row .col1 p {
+          margin-left: 40px;
+          font-family: Epilogue sans-serif;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 28px;
+          letter-spacing: 0;
+          text-align: left;
+          width: 380px; }
+        .Container .section4 .container .row .col1 .a {
+          width: 496px;
+          height: 76px;
+          marign-left: 40px;
+          padding: 0 201px 0 0; }
+          .Container .section4 .container .row .col1 .a svg {
+            margin-left: 50px; }
+          .Container .section4 .container .row .col1 .a h5 {
+            margin-left: 135px;
+            margin-top: -50px;
+            font-family: Epilogue sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0;
+            text-align: left; }
+          .Container .section4 .container .row .col1 .a p {
+            margin-left: 135px;
+            margin-top: -10px;
+            font-family: Epilogue sans-serif;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0;
+            text-align: left; }
+      .Container .section4 .container .row .col2 {
+        width: 570px;
+        height: 360px;
+        margin-left: 60px;
+        margin-top: 200px;
+        border-radius: 20px 20px 0 20px;
+        background-color: white; }
+        .Container .section4 .container .row .col2 h5 {
+          margin-top: 20px;
+          margin-left: 40px;
+          font-family: Epilogue sans-serif;
+          font-size: 24px;
+          font-weight: 400;
+          line-height: 30px;
+          letter-spacing: 0;
+          text-align: left; }
+        .Container .section4 .container .row .col2 p {
+          margin-left: 40px;
+          font-family: Epilogue sans-serif;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 28px;
+          letter-spacing: 0;
+          text-align: left;
+          width: 380px; }
+        .Container .section4 .container .row .col2 .a {
+          width: 496px;
+          height: 76px;
+          marign-left: 40px;
+          padding: 0 201px 0 0; }
+          .Container .section4 .container .row .col2 .a svg {
+            margin-left: 50px; }
+          .Container .section4 .container .row .col2 .a h5 {
+            margin-left: 135px;
+            margin-top: -50px;
+            font-family: Epilogue sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0;
+            text-align: left; }
+          .Container .section4 .container .row .col2 .a p {
+            margin-left: 135px;
+            margin-top: -10px;
+            font-family: Epilogue sans-serif;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0;
+            text-align: left; }
+      .Container .section4 .container .row .col3 {
+        margin-left: -640px;
+        margin-top: 650px; }
+  .Container .section5 .container {
+    width: 1280px;
+    height: 859px;
+    margin-top: 60px; }
+    .Container .section5 .container .row {
+      margin-left: -250px;
+      background-color: white; }
+    .Container .section5 .container .row .col h2 {
+      width: 400px;
+      height: 128px;
+      top: -7px;
+      font-family: Space Grotesk sans-serif;
+      font-size: 60px;
+      font-weight: 400;
+      line-height: 64px;
+      letter-spacing: 1.2000000476837158px;
+      text-align: left;
+      color: #000000; }
+    .Container .section5 .container .row .col p {
+      width: 400px;
+      margin-left: 100px;
+      font-family: Epilogue sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 34px;
+      letter-spacing: 0;
+      text-align: left; }
+    .Container .section5 .container .row .col-3 svg {
+      margin-top: 200px; }
+    .Container .section5 .container .row .col-3 svg {
+      margin-top: 200px; }
+    .Container .section5 .container .row .col-3 svg {
+      margin-top: 200px; }
+  .Container .section6 .container .row {
+    background-color: white; }
+  .Container .section6 .container .row {
+    margin-left: -50px; }
+    .Container .section6 .container .row .col-2 h2 {
+      font-family: Epilogue sans-serif;
+      font-size: 48px;
+      font-weight: 400;
+      line-height: 53px;
+      letter-spacing: 0;
+      text-align: center; }
+    .Container .section6 .container .row .col-6 h2 {
+      font-family: Epilogue sans-serif;
+      font-size: 48px;
+      font-weight: 400;
+      line-height: 53px;
+      letter-spacing: 0;
+      text-align: center; }
+  .Container .section7 .container {
+    margin-left: -150; }
+    .Container .section7 .container .row svg {
+      margin-top: -100px; }
+    .Container .section7 .container .row {
+      background-color: white; }
+      .Container .section7 .container .row .col-6 h2 {
+        margin-top: -80px;
+        color: black;
+        font-size: 56px; }
+    .Container .section7 .container .row .col svg {
+      margin-top: 110px; }
+    .Container .section7 .container .row .col h5 {
+      margin-top: 120px;
+      font-family: Epilogue sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 19px;
+      letter-spacing: 2px;
+      text-align: left;
+      color: #4543E8; }
+    .Container .section7 .container .row .col h3 {
+      margin-top: 15px;
+      font-family: Epilogue sans-serif;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 30px;
+      letter-spacing: 0;
+      text-align: left; }
+    .Container .section7 .container .row .col h6 {
+      width: 480px;
+      font-family: Epilogue sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 28px;
+      letter-spacing: 0;
+      text-align: left; }
+    .Container .section7 .container .row .col h5 {
+      font-family: Epilogue sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 25px;
+      letter-spacing: 0;
+      text-align: left; }
+    .Container .section7 .container .row {
+      margin-top: 220px; }
+      .Container .section7 .container .row .col svg {
+        margin-top: 110px; }
+      .Container .section7 .container .row .col h5 {
+        margin-top: 120px;
+        font-family: Epilogue sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 2px;
+        text-align: left;
+        color: #4543E8; }
+      .Container .section7 .container .row .col h3 {
+        margin-top: 15px;
+        font-family: Epilogue sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0;
+        text-align: left; }
+      .Container .section7 .container .row .col h6 {
+        width: 480px;
+        font-family: Epilogue sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0;
+        text-align: left; }
+      .Container .section7 .container .row .col h5 {
+        font-family: Epilogue sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 25px;
+        letter-spacing: 0;
+        text-align: left; }
+    .Container .section7 .container .row {
+      margin-top: 220px; }
+      .Container .section7 .container .row .col svg {
+        margin-top: 110px; }
+      .Container .section7 .container .row .col h5 {
+        margin-top: 120px;
+        font-family: Epilogue sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 2px;
+        text-align: left;
+        color: #4543E8; }
+      .Container .section7 .container .row .col h3 {
+        margin-top: 15px;
+        font-family: Epilogue sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0;
+        text-align: left; }
+      .Container .section7 .container .row .col h6 {
+        width: 480px;
+        font-family: Epilogue sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0;
+        text-align: left; }
+      .Container .section7 .container .row .col h5 {
+        font-family: Epilogue sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 25px;
+        letter-spacing: 0;
+        text-align: left; }
+  .Container .section8 .container {
+    margin-left: 0; }
+    .Container .section8 .container .row {
+      width: 1440px;
+      height: 400px;
+      margin-top: 340px;
+      background-color: white; }
+      .Container .section8 .container .row .col-6 {
+        background-color: #1b1bff;
+        opacity: 0.5; }
+        .Container .section8 .container .row .col-6 h2 {
+          margin-top: 130px;
+          font-family: Epilogue sans-serif;
+          font-size: 24px;
+          font-weight: 400;
+          line-height: 30px;
+          letter-spacing: 0;
+          text-align: center;
+          color: white; }
+        .Container .section8 .container .row .col-6 h6 {
+          font-family: Epilogue sans-serif;
+          font-size: 14px;
+          font-weight: 400;
+          line-height: 28px;
+          letter-spacing: 0;
+          text-align: center;
+          color: white; }
+      .Container .section8 .container .row .col-6 {
+        background-color: #1b1bff;
+        opacity: 0.9; }
+        .Container .section8 .container .row .col-6 h2 {
+          font-family: Epilogue sans-serif;
+          font-size: 24px;
+          font-weight: 400;
+          line-height: 30px;
+          letter-spacing: 0;
+          text-align: center;
+          color: white; }
+        .Container .section8 .container .row .col-6 h6 {
+          font-family: Epilogue sans-serif;
+          font-size: 14px;
+          font-weight: 400;
+          line-height: 28px;
+          letter-spacing: 0;
+          text-align: center;
+          color: white; }
+  .Container .section9 {
+    width: 1440px;
+    height: 731px;
+    background-color: #00154e; }
+    .Container .section9 .container .row {
+      margin-left: -165px; }
+      .Container .section9 .container .row .col svg {
+        margin-top: 100px;
+        margin-left: 100px; }
+      .Container .section9 .container .row .col h4 {
+        margin-top: -17px;
+        margin-left: 200px;
+        font-size: 16px;
+        color: white; }
+    .Container .section9 .container .row {
+      background-color: #00154e; }
+      .Container .section9 .container .row .col-2 {
+        background-color: #00154e; }
+        .Container .section9 .container .row .col-2 h2 {
+          margin-top: 100px;
+          margin-left: 100px;
+          font-family: Epilogue sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          line-height: 28px;
+          letter-spacing: 0;
+          text-align: left;
+          color: white; }
+      .Container .section9 .container .row .col-1 {
+        margin-top: 100px;
+        background-color: #00154e; }
+        .Container .section9 .container .row .col-1 ul {
+          margin-top: 70px;
+          display: inline-block;
+          position: absolute; }
+          .Container .section9 .container .row .col-1 ul h6 {
+            margin-top: 30px;
+            margin-left: 30px;
+            color: white; }
+
+h3 {
+  font-family: Epilogue sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0;
+  text-align: left; }
+
+p {
+  font-family: Epilogue sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0;
+  text-align: left; }
+
+/*# sourceMappingURL=Style.css.map */
